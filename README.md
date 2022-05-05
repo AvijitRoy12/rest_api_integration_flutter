@@ -2,6 +2,9 @@
 
 Parse JSON data to your app using REST API
 
+<video src='s1.mp4'/>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
