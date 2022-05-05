@@ -2,7 +2,7 @@
 
 Parse JSON data to your app using REST API
 
-<video src='s1.mp4'/>
+![](s1.gif)
 
 
 ## Getting Started
